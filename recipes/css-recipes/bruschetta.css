@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color:wheat;
+}
+
+h1{
+    text-align:center;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+.image{
+    text-align: center;
+}
+
+h3, ul li{
+    text-align: center;
+    list-style: none;
+}
+
+p + h3,
+ul + h3{
+    margin-top: 50px;
+}
+
+div a{
+    color: wheat;
+    margin-left: 40px;
+}
+
+p{
+    text-align: center;
+}
